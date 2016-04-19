@@ -1,0 +1,18 @@
+{
+  "name": "CDPSfyREST",
+  "version": "0.0.0",
+  "description": "Parte del proyecto en la que se accede mediante peticion REST a los ficheros de audio localizados en el cluster de nas y se sirven a la aplicacion inicial --> CDPSfy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/javierpruedas/CDPSfy"
+  },
+  "author": "Javier Perez y Ruben Oliva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javierpruedas/CDPSfy/issues"
+  }
+}
